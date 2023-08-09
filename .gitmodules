@@ -1,0 +1,3 @@
+[submodule "framework"]
+	path = framework
+	url = https://github.com/aielte-research/Segmentation.git
